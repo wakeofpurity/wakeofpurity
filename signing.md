@@ -7,3 +7,5 @@
 `git config --local user.signingkey key-id`
 
 `git config --local commit.gpgsign true`
+
+`export GPG_TTY=$(tty)`
